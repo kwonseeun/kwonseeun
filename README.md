@@ -7,8 +7,7 @@
  <br>
  <br>
   
-  <h2>:mailbox: CONTACT </h2>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <h2>:mailbox: BLOG </h2>
   <a href="https://geumbari.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   <br>
   <br>
