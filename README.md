@@ -36,7 +36,8 @@
   <br>
   <br>
   
-   <h2>:clipboard: MY GITHUB</h2>
+   <h2>:clipboard: MY GITHUB RESULT</h2>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonseeun&show_icons=true&theme=react)
-</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonseeun&show_icons=true&theme=dark)
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kwonseeun&theme=xcode)](https://github.com/kwonseeun/github-readme-activity-graph)</div>
