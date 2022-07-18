@@ -3,7 +3,7 @@
   <h4> :zap: ɪ'ᴍ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h4>
   <h4> :zap: ᴍʏ ᴍᴀɪɴ sᴋɪʟʟs ᴀʀᴇ ᴊᴀᴠᴀ, sᴘʀɪɴɢ </h4> 
   <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23393939&title_bg=%23A8A8A6&icon=diaspora.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonseeun%2Fhit-counter&count_bg=%23393939&title_bg=%23A8A8A6&icon=diaspora.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
  <br>
  <br>
   
