@@ -1,7 +1,8 @@
 <div align=center>
   <h3> ʜɪ ᴛʜᴇʀᴇ ! :eyes: </h3>
   <h4> :zap: ɪ'ᴍ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h4>
-  <h4> :zap: ᴍʏ ᴍᴀɪɴ sᴋɪʟʟs ᴀʀᴇ ᴊᴀᴠᴀ, sᴘʀɪɴɢ </h4> 
+  <h4> :zap: ᴍʏ ᴍᴀɪɴ sᴋɪʟʟs ᴀʀᴇ ᴊᴀᴠᴀ, sᴘʀɪɴɢ </h4>
+  <h4> :zap: sᴜʙ sᴋɪʟʟs ᴀʀᴇ ᴅᴀʀᴛ </h4> 
   <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonseeun%2Fhit-counter&count_bg=%23393939&title_bg=%23A8A8A6&icon=diaspora.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
  <br>
@@ -29,6 +30,7 @@
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
