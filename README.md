@@ -39,8 +39,6 @@
   
    <h2>:clipboard: MY GITHUB RESULT</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonseeun&layout=compact&theme=tokyonight) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonseeun&layout=compact&theme=tokyonight) &nbsp;</br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwonseeun&show_icons=true&theme=tokyonight)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kwonseeun&theme=xcode)](https://github.com/kwonseeun/github-readme-activity-graph)</div> 
 
