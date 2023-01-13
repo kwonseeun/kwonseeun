@@ -36,9 +36,3 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <br>
-  
-   <h2>:clipboard: MY GITHUB RESULT</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonseeun&layout=compact&theme=tokyonight) &nbsp;</br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwonseeun&show_icons=true&theme=tokyonight)
-
